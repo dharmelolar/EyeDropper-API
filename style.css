@@ -1,0 +1,23 @@
+body {
+  /* background-color: ; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+p {
+  font-size: 20px;
+  margin-left: 1.5rem;
+}
+button {
+  font-size: 15px;
+  padding: 1rem .5rem 1rem .5rem;
+  border: 2px solid rgb(102, 50, 133);
+  border-radius: 10px;
+  background-color: rgb(7, 7, 8);
+  color: thistle;
+  font-family: monospace;
+}
+span{
+    font-weight:bold ;
+}

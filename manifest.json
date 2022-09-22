@@ -1,0 +1,11 @@
+{
+    "name": "Color Picker App",
+    "version": "1.0.0",
+    "description": "sample colors from your screen",
+    "manifest_version": 3,
+    "author": "Damilola ezekiel",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Color picker App"
+    }
+}
