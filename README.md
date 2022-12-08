@@ -7,7 +7,7 @@ This can be useful for applications that need to interact with the visual design
 
 ## Browser Supports
 
-The EyeDropper API is Supported by the following browsers.
+The EyeDropper API is Supported by the latest versions of the following browsers.
 
 - Chrome 
 - Edge
