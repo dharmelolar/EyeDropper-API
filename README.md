@@ -5,7 +5,7 @@ The EyeDropper API is a Web API that provides a technique for creating an eyedro
 This can be useful for applications that need to interact with the visual design of a page, such as color pickers, design tools, and accessibility tools.
 
 
-## Browser Supports
+## Browser Support
 
 The EyeDropper API is Supported by the latest versions of the following browsers.
 
