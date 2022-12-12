@@ -13,6 +13,6 @@ The EyeDropper API is Supported by the latest versions of the following browsers
 - Edge
 - Opera
 
-
+Link to the app https://colour-sample.netlify.app/
 
 
